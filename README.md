@@ -14,7 +14,7 @@ A simple react application for creating resumes
 Clone the project
 
 ```bash
-  git clone https://github.com/snxdev/resume-maker.git
+  git clone https://github.com/devsanx/resume-maker.git
 ```
 
 Go to the project directory
